@@ -95,7 +95,8 @@ pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
 ```
-
+## Deploy On Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fflask&envs=API_HASH%2CAPI_ID%2CAUTH_USERS%2CDATABASE_NAME%2CDATABASE_URI%2CHEROKU_API_KEY%2CSAVE_USER%2CTG_BOT_TOKEN%2CWEBHOOK&optionalEnvs=SAVE_USER&WEBHOOKDesc=No+need+to+change+this+field%21&WEBHOOKDefault=ANYTHING&referralCode=Professor)
 
 ## Configs
 
